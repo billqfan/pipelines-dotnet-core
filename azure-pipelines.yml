@@ -1,6 +1,8 @@
 # Build ASP.NET Core project using Azure Pipelines
 # https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core?view=vsts
 
+[![Build Status](https://dev.azure.com/AzureDevOps-QunFan/CloudIsTheFuture/_apis/build/status/billqfan.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/AzureDevOps-QunFan/CloudIsTheFuture/_build/latest?definitionId=1&branchName=master)
+
 pool:
   vmImage: 'Ubuntu 16.04'
   
